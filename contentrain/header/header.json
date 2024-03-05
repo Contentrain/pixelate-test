@@ -1,5 +1,18 @@
 [
   {
+    "ID": "3f8eec4ac186",
+    "createdAt": "Tue Mar 05 2024 15:45:11 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Tue Mar 05 2024 15:45:11 GMT+0300 (GMT+03:00)",
+    "logosrc": "public/images/1705749272060_banner-bg.svg",
+    "logoalt": "dasdas",
+    "leftbuttonlabel": "dasdasd",
+    "leftbuttonlink": "dasdasd",
+    "rightbuttonlabel": "dasdasdasd",
+    "rightbuttonlink": "dasdasdasd",
+    "status": "publish",
+    "scheduled": false
+  },
+  {
     "ID": "fdf1dd91a0b8",
     "createdAt": "2024-01-20T11:35:16.000Z",
     "updatedAt": "2024-01-20T19:40:53.201Z",
