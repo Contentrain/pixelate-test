@@ -67,5 +67,23 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Categories",
+    "fieldId": "categories",
+    "modelId": "products",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "authors"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
