@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "0d6373bd016e",
+    "createdAt": "Wed Mar 06 2024 09:44:00 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Wed Mar 06 2024 09:44:00 GMT+0300 (GMT+03:00)",
+    "subtitle": "More tha a Git CMS",
+    "title": "Your go to Headless CMS, Contentrain 2.0",
+    "description": "<p>A Headless CMS that combines Git and Serverless Platforms to optimize content management on digital products for developers and content creators</p>",
+    "email": "john.doe@contentrain.io",
+    "hero-bg-image": "public/images/1705782485302_cover.svg",
+    "status": "publish",
+    "scheduled": false
+  }
+]
