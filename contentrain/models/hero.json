@@ -85,5 +85,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Email",
+    "fieldId": "email",
+    "modelId": "hero",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
