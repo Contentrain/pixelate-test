@@ -94,5 +94,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "Hero BG image",
+    "fieldId": "hero-bg-image",
+    "modelId": "hero",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
