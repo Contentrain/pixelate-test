@@ -142,5 +142,13 @@
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "blog",
+    "modelId": "blog-3",
+    "path": "content/blog",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
   }
 ]
